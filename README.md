@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advanced Real-Time Chat Application
 
 A comprehensive real-time chat application built with Node.js, Socket.IO, and MongoDB featuring advanced messaging capabilities, voice/video calls, and modern UI.
@@ -256,3 +257,6 @@ If you encounter any issues or have questions:
 - Chat backup/export
 - Multi-language support
 - Mobile app development 
+=======
+# Chatapp
+>>>>>>> 4d804c9acc75c188ac4c87a07d33ca81368e3480
